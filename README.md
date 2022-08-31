@@ -27,3 +27,5 @@ npm run dev
 ```sh
 npm run build
 ```
+
+### To check vue version: npm v vue
