@@ -47,3 +47,18 @@ npm run build
 ### To check vue version: npm v vue
 
 ### To convert .vue to .js file: https://stackoverflow.com/questions/43780134/compile-vue-file-into-js-file-without-webpack-or-browserify
+
+Demo:
+
+Part 1:
+https://user-images.githubusercontent.com/55496113/222188144-579838b8-5aa2-40b3-b9bc-9aa4f8425eb7.mp4
+
+Part 2:
+https://user-images.githubusercontent.com/55496113/222188169-4598f9b6-d14d-4a9e-9688-c00257b2b04b.mp4
+
+Part 3:
+https://user-images.githubusercontent.com/55496113/222188181-e3fb8911-49c5-4c82-9671-0ccd6edc1e8b.mp4
+
+
+
+
