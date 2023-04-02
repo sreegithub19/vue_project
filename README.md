@@ -16,6 +16,10 @@ Steps to run this project:
 - npm install
 - npm run dev # http://127.0.0.1:5173/
 
+Git:
+
+- git add . && git commit -m "c" && git push origin master
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
@@ -58,7 +62,3 @@ https://user-images.githubusercontent.com/55496113/222188169-4598f9b6-d14d-4a9e-
 
 Part 3:
 https://user-images.githubusercontent.com/55496113/222188181-e3fb8911-49c5-4c82-9671-0ccd6edc1e8b.mp4
-
-
-
-
